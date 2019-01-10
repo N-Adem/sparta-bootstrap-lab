@@ -1,0 +1,33 @@
+/*------------------Environment----------------------------*/
+.nav-footer{
+
+}
+
+.jumbotron{
+background-color:lightgoldenrodyellow;
+}
+
+.environment{
+background-image: linear-gradient(lightcyan,lightgoldenrodyellow,lightcyan);
+}
+/*images design*/
+img{
+    border-radius:50%;
+}
+
+hr{
+  border-width: 3px;  
+}
+/*Work on this function further ------ */
+img:hover{
+    animation: shake 0.5s;
+}
+/*---------------------Footer designs-----------------------*/
+.footer-design{ 
+    background-image: linear-gradient(to right lightcyan,lightgoldenrodyellow,lightgray);
+    }
+.icon{
+    border-radius: 50%;   
+    color:lightgray;
+}
+
